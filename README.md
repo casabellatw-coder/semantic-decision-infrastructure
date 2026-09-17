@@ -48,7 +48,7 @@ This repository is a public concept record: name, author, the authoritative defi
 ## Version record
 
 - 2026-02-05 — Definition version `SDI v1.0` (primary definition page published in 繁體中文, English and 日本語, each carrying a Provenance & Version block)
-- Public repository release `v1.0.0` — see `CHANGELOG.md`
+- 2026-09-18 — Public repository release `v1.0.0` (see `CHANGELOG.md`)
 
 ## How to cite
 
