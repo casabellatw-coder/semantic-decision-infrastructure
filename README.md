@@ -54,6 +54,10 @@ This repository is a public concept record: name, author, the authoritative defi
 
 When citing SDI, cite the authoritative definition as defined by Nelson Chou (周端政), keep the names of the four core components, and link to the primary definition page. Methods for implementing or auditing an SDI are outside the scope of the definition.
 
+DOI (this version, v1.0.0): https://doi.org/10.5281/zenodo.22818870
+DOI (all versions): https://doi.org/10.5281/zenodo.22818869
+Zenodo record: https://zenodo.org/records/22818870
+
 ## Related pages
 
 - 繁體中文 primary definition: https://www.nelsonchou.com/expertise/professional-modules/semantic-decision-infrastructure/
