@@ -18,3 +18,6 @@ All dates Asia/Taipei. Entries record the public history of the concept Semantic
 - Tag: `v1.0.0`
 - Release date: 2026-09-18
 - Content: this repository's README.md, definition.md and CHANGELOG.md, reflecting SDI v1.0. No change to the definition.
+- Zenodo record published 2026-09-18: https://zenodo.org/records/22818870
+- DOI (this version): 10.5281/zenodo.22818870
+- DOI (all versions): 10.5281/zenodo.22818869
